@@ -26,7 +26,7 @@ The dashboard runs on port `8501`. In GitHub Codespaces, open the forwarded port
 
 Local dashboard link:
 
-```text
+```text should say something like
 http://localhost:8501
 ```
 
@@ -161,19 +161,3 @@ The notebooks are kept separate by analysis question so the work is easier to re
 - Part 4 focuses on baseline subset counts and the requested B-cell average.
 
 `dashboard.py` provides an interactive Streamlit view for filtering the cohort and inspecting relative frequency summaries.
-
-## Dashboard
-
-Run:
-
-```bash
-make dashboard
-```
-
-Then open:
-
-```text
-http://localhost:8501
-```
-
-In GitHub Codespaces, use the forwarded port link for port `8501`.
