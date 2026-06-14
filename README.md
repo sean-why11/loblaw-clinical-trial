@@ -1,4 +1,4 @@
-# Teiko Assessment
+# Loblaw Clinical Trial
 
 This repository analyzes immune cell population counts from `cell-count.csv` for Loblaw Bio's clinical trial.
 
